@@ -4,7 +4,7 @@
 
 - 🎥 Ich Starte bald mit Youtube!
 - 🌱 Ich bin Hobbylos 🤣
-- 🎯 2021 Ziel: 200 Abbonennten auf Youtube knacken
+- 🎯 2022 Ziel: 200 Abbonennten auf Youtube knacken
 <br />
 
 ### Languages and Tools:
