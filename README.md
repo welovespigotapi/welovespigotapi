@@ -30,7 +30,7 @@
 [<img align="left" style="margin-right: 5px" alt="WeLoveSpigotApi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
-[![Discord](https://img.shields.io/discourse/users?server=WEf8GKEhy3&?color=5865F2&logo=discord&style=for-the-badge)]()
+[![Discord](https://img.shields.io/discourse/users?server=https://discord.gg/WEf8GKEhy3&style=for-the-badge)]()
 
 
 [twitter]: https://twitter.com/WeLoveSpigotApi
