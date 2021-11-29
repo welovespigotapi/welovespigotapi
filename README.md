@@ -7,6 +7,9 @@
 - 🎯 2022 Ziel: 200 Abbonennten auf Youtube knacken
 <br />
 
+Youtube Abos:
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCyHb6Zdicsgj6vBVp7bdxVg?color=%23f70000&label=Abonennten&logo=Youtube&logoColor=%23f70000&style=for-the-badge)]()
+
 ### Languages and Tools:
 
 <img align="left" style="margin-right: 5px" alt="Intellij" width="26px" src="./img/intellij.png" />
