@@ -4,7 +4,6 @@
 
 - 🤖 Head Developer von Shadow
 - 🎯 2022 Ziel: 100 Abbonennten auf Youtube knacken
-<br />
 
 ### Shadow:
 [![Discord](https://img.shields.io/discord/944317202637676546?color=%237289da&label=Shadow&logo=Discord&logoColor=%237289da&style=for-the-badge)](https://discord.gg/eDz3BMPXpV)
