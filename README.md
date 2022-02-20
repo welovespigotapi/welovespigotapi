@@ -6,6 +6,9 @@
 - 🎯 2022 Ziel: 100 Abbonennten auf Youtube knacken
 <br />
 
+### Shadow:
+[![Discord](https://img.shields.io/discord/944317202637676546?color=5865F2&label=Discord&logo=discord&logoColor=5865F2&style=for-the-badge)](https://discord.gg/eDz3BMPXpV)
+
 Youtube Abos:
 <br>
 
@@ -33,12 +36,6 @@ Youtube Abos:
 [<img align="left" style="margin-right: 5px" alt="WeLoveSpigotApi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" style="margin-right: 5px" alt="WeLoveSpigotApi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
-
-### Shadow Discord:
-[![Discord](https://img.shields.io/discord/944317202637676546?color=5865F2&label=Discord&logo=discord&logoColor=5865F2&style=for-the-badge)](https://discord.gg/eDz3BMPXpV)
-
-### Mein Discord:
-[![Discord](https://img.shields.io/discord/913478258765488169?color=5865F2&label=Discord&logo=discord&logoColor=5865F2&style=for-the-badge)]()
 
 
 [twitter]: https://www.youtube.com/channel/UCxDo0r2NJDeX4f4mGy1nqQw
