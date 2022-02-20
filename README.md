@@ -35,7 +35,7 @@ Youtube Abos:
 <br>
 
 ### Shadow Discord:
-[![Discord](https://img.shields.io/discord/944317202637676546?color=5865F2&label=Discord&logo=discord&logoColor=5865F2&style=for-the-badge)](shadow)
+[![Discord](https://img.shields.io/discord/944317202637676546?color=5865F2&label=Discord&logo=discord&logoColor=5865F2&style=for-the-badge)](https://discord.gg/eDz3BMPXpV)
 
 ### Mein Discord:
 [![Discord](https://img.shields.io/discord/913478258765488169?color=5865F2&label=Discord&logo=discord&logoColor=5865F2&style=for-the-badge)]()
