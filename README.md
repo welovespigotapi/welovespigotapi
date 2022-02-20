@@ -9,11 +9,6 @@
 ### Shadow:
 [![Discord](https://img.shields.io/discord/944317202637676546?color=%237289da&label=Shadow&logo=Discord&logoColor=%237289da&style=for-the-badge)](https://discord.gg/eDz3BMPXpV)
 
-Youtube Abos:
-<br>
-
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxDo0r2NJDeX4f4mGy1nqQw?color=%23f70000&label=Abonennten&logo=Youtube&logoColor=%23f70000&style=for-the-badge)]()
-
 ### Languages and Tools:
 
 <img align="left" style="margin-right: 5px" alt="Intellij" width="26px" src="./img/intellij.png" />
