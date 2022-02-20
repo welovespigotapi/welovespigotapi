@@ -4,13 +4,13 @@
 
 - 🎥 Ich Starte bald mit Youtube!
 - 🌱 Ich bin Hobbylos 🤣
-- 🎯 2022 Ziel: 200 Abbonennten auf Youtube knacken
+- 🎯 2022 Ziel: 100 Abbonennten auf Youtube knacken
 <br />
 
 Youtube Abos:
 <br>
 
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCyHb6Zdicsgj6vBVp7bdxVg?color=%23f70000&label=Abonennten&logo=Youtube&logoColor=%23f70000&style=for-the-badge)]()
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxDo0r2NJDeX4f4mGy1nqQw?color=%23f70000&label=Abonennten&logo=Youtube&logoColor=%23f70000&style=for-the-badge)]()
 
 ### Languages and Tools:
 
@@ -39,6 +39,6 @@ Youtube Abos:
 [![Discord](https://img.shields.io/discord/913478258765488169?color=5865F2&label=Discord&logo=discord&logoColor=5865F2&style=for-the-badge)]()
 
 
-[twitter]: https://twitter.com/WeLoveSpigotApi
+[twitter]: https://www.youtube.com/channel/UCxDo0r2NJDeX4f4mGy1nqQw
 [youtube]: https://youtube.com/WeLoveSpigotApi
 [instagram]: https://instagram.com/WeLoveSpigotApi
