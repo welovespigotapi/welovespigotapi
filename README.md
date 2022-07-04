@@ -1,9 +1,8 @@
-### Hi Mein Name ist Maxim aka. WeLoveSpigotApi 👋
+## Hi Mein Name ist Maxim aka. WeLoveSpigotApi 👋
 
-## Ich bin ein Front und Backend Developer
+# Ich bin ein Front und Backend Developer
 
 - 🤖 Head Developer von Shadow
-
 ### Shadow:
 [![Discord](https://img.shields.io/discord/944317202637676546?color=%237289da&label=Shadow&logo=Discord&logoColor=%237289da&style=for-the-badge)](https://discord.gg/eDz3BMPXpV)
 
