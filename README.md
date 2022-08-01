@@ -2,9 +2,9 @@
 
 # Ich bin ein Front und Backend Developer
 
-- 🤖 Head Developer von Shadow
+- 🤖 Head Developer von HexaGames
 ### Shadow:
-[![Discord](https://img.shields.io/discord/944317202637676546?color=%237289da&label=Shadow&logo=Discord&logoColor=%237289da&style=for-the-badge)](https://discord.gg/eDz3BMPXpV)
+[![Discord](https://img.shields.io/discord/947915435377061888?color=%237289da&label=Shadow&logo=Discord&logoColor=%237289da&style=for-the-badge)](https://discord.gg/Sua7tzFVPP)
 
 ### Languages and Tools:
 
